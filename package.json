@@ -1,5 +1,5 @@
 {
-  "name": "join-monster-graphql-tools-adapter",
+  "name": "join-monster-graphql-tools-adapter-yang2007chun",
   "version": "0.0.2",
   "description": "Fetch data for your graph-tools schema using join-monster.",
   "main": "src/index.js",
@@ -31,10 +31,6 @@
     "url": "https://github.com/acarl005/join-monster-graphql-tools-adapter/issues"
   },
   "homepage": "https://github.com/acarl005/join-monster-graphql-tools-adapter#readme",
-  "peerDependencies": {
-    "graphql-tools": "^0.4.0",
-    "join-monster": "*"
-  },
   "devDependencies": {
     "eslint": "^3.17.1",
     "sqlite": "^2.3.0"
